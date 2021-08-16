@@ -1,0 +1,34 @@
+{
+    "bg-primary": {
+		"backgroundColor": "#042443"
+	},
+    "bg-primary-1": {
+        "backgroundColor": "rgba(4, 36, 67, 0.95)"
+    },
+    "border-secondary": {
+        "--tw-border-opacity": 1,
+        "borderTopColor": "#547c81",
+        "borderRightColor": "#547c81",
+        "borderBottomColor": "#547c81",
+        "borderLeftColor": "#547c81"
+    },
+    "text-secondary": {
+        "--tw-text-opacity": 1,
+        "color": "#547c81"
+    },
+    "text-success": {
+        "--tw-text-opacity": 1,
+        "color": "#49bdc2"
+    },
+    "text-dark": {
+        "--tw-text-opacity": 1,
+        "color": "#042443"
+    },
+    "font-opensans": {
+        "fontFamily": "Opensans"
+    },
+    "font-opensans-bold": {
+        "fontFamily": "OpensansBold"
+    }
+    
+}
